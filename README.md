@@ -6,5 +6,5 @@ and the register can display a QR code address for the customer to make a paymen
 
 the register can also provide cash back as Bitcoin back in mBTC amount to the customers phone by scanning the customers phone with a QR code
 
-and the customer cannise their phone Bitcoin wallet to make a payment to the register by scanning the QR code displayed on the pin pad at the register
+and the customer can send using their phone Bitcoin wallet to make a payment to the register by scanning the QR code displayed on the pin pad at the register
 ```
