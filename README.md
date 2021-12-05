@@ -1,5 +1,6 @@
 # qr-code-kiosk-cash-register
 
+# register can also act as a bitcoin atm if the store is loaded with funds to disperse to take cash under $10,000
 
 # an infrared scanner can read a mobile phone QR display address for sending from the register to the customers phone
 # and the register can display a QR code address for the customer to make a payment
