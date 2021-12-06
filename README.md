@@ -16,7 +16,7 @@ $12.00 pack of cigarettes in BTC digital,
 ```
 
 # can be either or direct Bitcoin deposit or 7-11 app in that regard should only be 7-11 app to prevent deposit misconduct and lies if too many customers are standing there to tamper with a deposit address
-and other corporate model stores should use an application ti buffer payment at the register to stop deposit misconduct in public
+and other corporate model stores should use an application to buffer payment at the register to stop deposit misconduct in public
 think Target, Walmart all the majors
 ![s1](https://raw.githubusercontent.com/c4pt000/qr-code-kiosk-cash-register/main/pinpad-7-11-concept.jpg)
 
