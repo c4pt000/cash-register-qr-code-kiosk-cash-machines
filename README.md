@@ -15,7 +15,7 @@ $12.00 pack of cigarettes in BTC digital,
 .96 cents physical money 
 ```
 
-# can be either or direct Bitcoin deposit or 7-11 app in that regard
+# can be either or direct Bitcoin deposit or 7-11 app in that regard should only be 7-11 app to prevent deposit misconduct and lies if too many customers are standing there to tamper with a deposit address
 ![s1](https://raw.githubusercontent.com/c4pt000/qr-code-kiosk-cash-register/main/pinpad-7-11-concept.jpg)
 
 # register can also act as a bitcoin atm if the store is loaded with funds to disperse to take cash under $10,000
