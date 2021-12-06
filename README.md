@@ -14,6 +14,7 @@ $12.00 pack of cigarettes in BTC digital,
 
 .96 cents physical money 
 ```
+![s1](https://raw.githubusercontent.com/c4pt000/qr-code-kiosk-cash-register/main/pinpad-7-11-concept.jpg)
 
 # register can also act as a bitcoin atm if the store is loaded with funds to disperse to take cash under $10,000
 
