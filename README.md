@@ -20,6 +20,8 @@ and other corporate model stores should use an application to buffer payment at 
 think Target, Walmart all the majors
 ![s1](https://raw.githubusercontent.com/c4pt000/qr-code-kiosk-cash-register/main/pinpad-7-11-concept.jpg)
 
+# sunoco concept
+![s1](https://raw.githubusercontent.com/c4pt000/qr-code-kiosk-cash-register/main/Sunoco_pinpad_20211207_090933101_HDR.jpg)
 # register can also act as a bitcoin atm if the store is loaded with funds to disperse to take cash under $10,000
 
 # an infrared scanner can read a mobile phone QR display address for sending from the register to the customers phone
