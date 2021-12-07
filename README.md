@@ -25,6 +25,7 @@ think Target, Walmart all the majors
 # sunoco concept
 ![s1](https://raw.githubusercontent.com/c4pt000/qr-code-kiosk-cash-register/main/Sunoco_pinpad_20211207_090933101_HDR.jpg)
 ![s1](https://raw.githubusercontent.com/c4pt000/qr-code-kiosk-cash-register/main/wawa-kiosk-IMG_20211207_103129691.jpg)
+![s1](https://github.com/c4pt000/qr-code-kiosk-cash-register/blob/main/dunkin_doughnuts_concept_design.png?raw=true)
 # register can also act as a bitcoin atm if the store is loaded with funds to disperse to take cash under $10,000
 
 # an infrared scanner can read a mobile phone QR display address for sending from the register to the customers phone
