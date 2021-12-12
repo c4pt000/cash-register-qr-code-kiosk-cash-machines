@@ -19,7 +19,7 @@ $12.00 pack of cigarettes in BTC digital,
 
 # protect kiosk user in general terms, think wawa, 7-11, casino, pharmacy, etc (by not displaying phone number when customer enters phone number for perks)
 
-# (the bitcoin ATM when at a gas station can credit a pump with payment of cryptocurrency deposit by inter-linking APP to APP from Bitcoin ATM Internal APP to Gas Pump Internal APP
+# (the bitcoin ATM when at a gas station can credit a pump with payment of cryptocurrency deposit by inter-linking APP to APP from Bitcoin ATM (or Kiosk) Internal APP to Gas Pump Internal APP
 
 # protect Bitcoin ATM users
 ![s1](https://raw.githubusercontent.com/c4pt000/qr-code-kiosk-cash-register/main/bitcoin-atm-protected-phone-number-visual.jpg)
