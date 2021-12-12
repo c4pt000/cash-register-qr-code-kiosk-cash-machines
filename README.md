@@ -19,7 +19,7 @@ $12.00 pack of cigarettes in BTC digital,
 ![s1](https://raw.githubusercontent.com/c4pt000/qr-code-kiosk-cash-register/main/bitcoin-atm-protected-phone-number-visual.jpg)
 
 
-# even slot machines vegas or not, can use an casino based application to deposit and receieve bitcoin to the ATM as game credit, by slot machine unique id to the application dispatch where the application also has a unique application and user id when logged in and confirmed (also could include GPS location of machine and user playing to deposit) only the application allows QR code deposit the slot machine has a QR code to download application (to protect interest of deposit of user)
+# even slot machines vegas or not, can use an casino based application to deposit and receieve bitcoin to the ATM as game credit, by slot machine unique id (UUID) to the application dispatch where the application also has a unique application (UUID) and user id (UUID) when logged in and confirmed (also could include GPS location of machine and user playing to deposit) only the application allows QR code deposit the slot machine has a QR code to download application (to protect interest of deposit of user)
 
 ![s1](https://raw.githubusercontent.com/c4pt000/qr-code-kiosk-cash-register/main/parx-casino-application-buffer.jpg)
 
