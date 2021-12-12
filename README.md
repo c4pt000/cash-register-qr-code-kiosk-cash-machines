@@ -1,4 +1,4 @@
-# qr-code-kiosk-cash-register
+# qr-code-kiosk-cash-machines
 
 # protect USER with slot machine and ATM to USE APP TO APP DEPOSIT AND WITHDRAWAL SAVE MONEY ON INFRARED SENSOR TOTALLY
 
