@@ -17,9 +17,14 @@ $12.00 pack of cigarettes in BTC digital,
 .96 cents physical money 
 ```
 
+# protect kiosk user in general terms, think wawa, 7-11, casino, pharmacy, etc
+
+
 # protect Bitcoin ATM users
 ![s1](https://raw.githubusercontent.com/c4pt000/qr-code-kiosk-cash-register/main/bitcoin-atm-protected-phone-number-visual.jpg)
 
+protect 7-11 user
+![s1](https://raw.githubusercontent.com/c4pt000/qr-code-kiosk-cash-register/main/PROTECT_PHONE_NUMBER_DISPLAYED_INP_PUBLIC_AROUND_RANDOM_PEOPLE.jpg)
 
 # even slot machines vegas or not, can use an casino based application to deposit and receieve bitcoin to the ATM as game credit, by slot machine unique id (UUID) to the application dispatch where the application also has a unique application (UUID) and user id (UUID) when logged in and confirmed (also could include GPS location of machine and user playing to deposit) only the application allows QR code deposit the slot machine has a QR code to download application (to protect interest of deposit of user)
 
