@@ -17,7 +17,7 @@ $12.00 pack of cigarettes in BTC digital,
 .96 cents physical money 
 ```
 
-# protect kiosk user in general terms, think wawa, 7-11, casino, pharmacy, etc
+# protect kiosk user in general terms, think wawa, 7-11, casino, pharmacy, etc (by not displaying phone number when customer enters phone number for perks)
 
 
 # protect Bitcoin ATM users
