@@ -28,9 +28,11 @@ protect 7-11 user
 ![s1](https://raw.githubusercontent.com/c4pt000/qr-code-kiosk-cash-register/main/PROTECT_PHONE_NUMBER_DISPLAYED_INP_PUBLIC_AROUND_RANDOM_PEOPLE.jpg)
 
 # even slot machines vegas or not, can use an casino based application to deposit and receieve bitcoin to the ATM as game credit, by slot machine unique id (UUID) to the application dispatch where the application also has a unique application (UUID) and user id (UUID) when logged in and confirmed (also could include GPS location of machine and user playing to deposit) only the application allows QR code deposit the slot machine has a QR code to download application (to protect interest of deposit of user)
-
+# slots
 ![s1](https://raw.githubusercontent.com/c4pt000/qr-code-kiosk-cash-register/main/parx-casino-application-buffer.jpg)
-
+# and kambi betting
+![s1](https://raw.githubusercontent.com/c4pt000/qr-code-kiosk-cash-machines/main/kambi.jpg)
+![s1](https://raw.githubusercontent.com/c4pt000/qr-code-kiosk-cash-machines/main/IMG_20211212_080913053_HDR.jpg)
 # can be either or direct Bitcoin deposit or 7-11 app in that regard should only be 7-11 app to prevent deposit misconduct and lies if too many customers are standing there to tamper with a deposit address
 and other corporate model stores should use an application to buffer payment at the register to stop deposit misconduct in public
 think Target, Walmart all the majors
