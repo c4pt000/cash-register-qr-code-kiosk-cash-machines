@@ -18,6 +18,11 @@ $12.00 pack of cigarettes in BTC digital,
 # protect Bitcoin ATM users
 ![s1](https://raw.githubusercontent.com/c4pt000/qr-code-kiosk-cash-register/main/bitcoin-atm-protected-phone-number-visual.jpg)
 
+
+# even slot machines vegas or not, can use an casino based application to deposit and receieve bitcoin to the ATM as game credit, by slot machine unique id to the application dispatch where the application also has a unique application and user id when logged in and confirmed (also could include GPS location of machine and user playing to deposit) only the application allows QR code deposit the slot machine has a QR code to download application (to protect interest of deposit of user)
+
+![s1](https://raw.githubusercontent.com/c4pt000/qr-code-kiosk-cash-register/main/parx-casino-application-buffer.jpg)
+
 # can be either or direct Bitcoin deposit or 7-11 app in that regard should only be 7-11 app to prevent deposit misconduct and lies if too many customers are standing there to tamper with a deposit address
 and other corporate model stores should use an application to buffer payment at the register to stop deposit misconduct in public
 think Target, Walmart all the majors
