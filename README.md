@@ -3,21 +3,16 @@
 # protect USER with slot machine and ATM to USE APP TO APP DEPOSIT AND WITHDRAWAL SAVE MONEY ON INFRARED SENSOR TOTALLY
 
 
-horrible horrible example
-```
-# secure purchaseable (TAX) with physical CASH e.g $1.00 purchase cigars BLK,o, .99 cent + 0.08 cents
-
-
-0.08 cents physical money
-
-.99 cents in USD , BTC 
-
-$12.00 pack of cigarettes in BTC digital,
-
-.96 cents physical money 
-```
 
 # protect kiosk user in general terms, think wawa, 7-11, casino, pharmacy, etc (by not displaying phone number when customer enters phone number for perks)
+
+```
+the receipt should print the QR code facing the floor.instead of facing the ceiling
+
+
+to protect the customers paper QR code wallet out of the Bitcoin ATM
+
+```
 
 # (the bitcoin ATM when at a gas station can credit a pump with payment of cryptocurrency deposit by inter-linking APP to APP from Bitcoin ATM (or Kiosk) Internal APP to Gas Pump Internal APP
 
