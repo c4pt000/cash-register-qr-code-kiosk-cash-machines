@@ -7,7 +7,7 @@
 # protect kiosk user in general terms, think wawa, 7-11, casino, pharmacy, etc (by not displaying phone number when customer enters phone number for perks)
 
 ```
-the receipt should print the QR code facing the floor.instead of facing the ceiling
+the paper QR code wallet receipt style should print the QR code facing the floor.instead of facing the ceiling when the paper QR code wallet receipt ejects out of the.machine
 
 
 to protect the customers paper QR code wallet out of the Bitcoin ATM
