@@ -12,7 +12,8 @@
 
 # to protect the customers paper QR code wallet out of the Bitcoin ATM
 
-
+# to safe guard the private key from theft
+# the private key should be obscured on the paper as a reminder of retrieval remotely using the phone number stored in a database in a double encrypted manerism encrypted private key server side matches phone user encrypted side with unlocking "salt" to securely deserialize encrypted string for phone side with sms password pin and confirm of phone 
 
 # (the bitcoin ATM when at a gas station can credit a pump with payment of cryptocurrency deposit by inter-linking APP to APP from Bitcoin ATM (or Kiosk) Internal APP to Gas Pump Internal APP
 
