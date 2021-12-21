@@ -6,13 +6,13 @@
 
 # protect kiosk user in general terms, think wawa, 7-11, casino, pharmacy, etc (by not displaying phone number when customer enters phone number for perks)
 
-```
-the paper QR code wallet receipt style should print the QR code facing the floor.instead of facing the ceiling when the paper QR code wallet receipt ejects out of the.machine
+
+# the paper QR code wallet receipt style should print the QR code facing the floor.instead of facing the ceiling when the paper QR code wallet receipt ejects out of the.machine
 
 
-to protect the customers paper QR code wallet out of the Bitcoin ATM
+# to protect the customers paper QR code wallet out of the Bitcoin ATM
 
-```
+
 
 # (the bitcoin ATM when at a gas station can credit a pump with payment of cryptocurrency deposit by inter-linking APP to APP from Bitcoin ATM (or Kiosk) Internal APP to Gas Pump Internal APP
 
