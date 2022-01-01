@@ -28,7 +28,7 @@
 # protect Bitcoin ATM users
 ![s1](https://raw.githubusercontent.com/c4pt000/qr-code-kiosk-cash-register/main/bitcoin-atm-protected-phone-number-visual.jpg)
 
-protect 7-11 user
+protect 7-11 users bu nit displaying their phone number when they enter their phone number for deals
 ![s1](https://raw.githubusercontent.com/c4pt000/qr-code-kiosk-cash-register/main/PROTECT_PHONE_NUMBER_DISPLAYED_INP_PUBLIC_AROUND_RANDOM_PEOPLE.jpg)
 
 
