@@ -1,7 +1,7 @@
 # qr-code-kiosk-cash-machines
 
 # 01-01-2022
-# by setting the network fee to 0.00001 Bitcoin then a transfer is 0.47 cents at 100,000 dollars a coin it's around $1.00 as a fee to use it at the register with these custom apps should accept on one pre confirmation (is it dangerous from Bitcoin rbf functions?)
+# by setting the network fee to 0.00001 Bitcoin then a transfer is 0.47 cents at 100,000 dollars a coin it's around $1.00 as a fee to use it at the register with these custom apps they should accept payment with one pre confirmation (is it dangerous from Bitcoin rbf functions?)
 
 # 12-20-2021
 # to safe guard the private key from theft
