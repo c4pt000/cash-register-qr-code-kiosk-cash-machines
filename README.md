@@ -1,4 +1,8 @@
 # qr-code-kiosk-cash-machines
+
+# 01-01-2022
+# set network fee to 0.00001 Bitcoin then a transfer is 0.47 cents at 100,000 dollars a coin it's around $1.00 as a fee to use it at the register
+
 # 12-20-2021
 # to safe guard the private key from theft
 # the private key should be obscured on the paper as a reminder of retrieval remotely using the phone number stored in a database in a double encrypted manerism encrypted private key server side matches phone user encrypted side with unlocking "salt" to securely deserialize encrypted string for phone side with sms password pin and confirm of phone 
