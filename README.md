@@ -52,7 +52,7 @@ protect 7-11 users by not displaying their phone number when they enter their ph
 and other corporate model stores should use an application to buffer payment at the register to stop deposit misconduct in public
 think Target, Walmart all the majors
 
-# CONCEPT PSEUDO DESIGN
+# CONCEPT PSEUDO DESIGN (Bitcoin written in bangers font)
 ![s1](https://raw.githubusercontent.com/c4pt000/qr-code-kiosk-cash-register/main/pinpad-7-11-concept.jpg)
 
 # sunoco concept
