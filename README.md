@@ -25,7 +25,7 @@
 
 # (the bitcoin ATM when at a gas station can credit a pump with payment of cryptocurrency deposit by inter-linking APP to APP from Bitcoin ATM (or Kiosk) Internal APP to Gas Pump Internal APP
 
-# protect Bitcoin ATM users
+# protect Bitcoin ATM users by not displaying their phone number as they are entering it directly into the display
 ![s1](https://raw.githubusercontent.com/c4pt000/qr-code-kiosk-cash-register/main/bitcoin-atm-protected-phone-number-visual.jpg)
 
 protect 7-11 users bu nit displaying their phone number when they enter their phone number for deals
