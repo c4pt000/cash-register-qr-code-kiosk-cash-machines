@@ -5,6 +5,8 @@
 
 # 12-20-2021
 # to safe guard the private key from theft
+
+![s1](https://raw.githubusercontent.com/c4pt000/cash-register-qr-code-kiosk-cash-machines/main/Screenshot_20220102-015752-236~2.png)
 # the private key should be obscured on the paper as a reminder of retrieval remotely using the phone number stored in a database in a double encrypted manerism encrypted private key server side matches phone user encrypted side with unlocking "salt" to securely deserialize encrypted string for phone side with sms password pin and confirm of phone 
 
 
