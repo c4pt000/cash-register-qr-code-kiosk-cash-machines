@@ -1,5 +1,9 @@
 # qr-code-kiosk-cash-machines
 
+
+# 01-07-2022 still not working right! stars should be displayed when entering number phone number digits are not displayed at all
+![s1](https://raw.githubusercontent.com/c4pt000/cash-register-qr-code-kiosk-cash-machines/main/IMG_20220107_163014046_HDR.jpg)
+
 # 01-05-2022
 # forgot to mention as a possible suggestion it's probably a better idea and easier for vendors with sales tax to charge sales tax seperate from receiving crypto using the regular methods of debit or cash methods charging sales tax completely seperate each sale per customer
 
