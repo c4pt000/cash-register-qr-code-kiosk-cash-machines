@@ -1,6 +1,7 @@
 # qr-code-kiosk-cash-machines
 
-
+# 01-13-2022
+![s1](https://drive.google.com/file/d/1R5U1Tbi6ILvlq2rLPoPv8vrUxBA_VDl2/view?usp=drivesdk)
 # 01-07-2022 still not working right! stars should be displayed when entering number phone number digits are not displayed at all to protect the customer's privacy
 # likewise Android phones dont announce any phone numbers of car audio Bluetooth speaker at all
 ![s1](https://raw.githubusercontent.com/c4pt000/cash-register-qr-code-kiosk-cash-machines/main/IMG_20220107_163014046_HDR.jpg)
