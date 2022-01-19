@@ -1,5 +1,9 @@
 # qr-code-kiosk-cash-machines
 
+# 01-19-2022
+# and websites
+https://github.com/c4pt000/secureQR-code
+
  # 01-13-2022
 # Bitcoin atm
 https://drive.google.com/file/d/1R5U1Tbi6ILvlq2rLPoPv8vrUxBA_VDl2/view?usp=drivesdk
