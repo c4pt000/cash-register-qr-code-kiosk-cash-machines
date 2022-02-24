@@ -8,6 +8,13 @@ verifone website is remote and holds customer login and customer funds are held 
 customer in store loads verifone application right before purchasing something 
 verifone kiosk prompts for payment type customer selects cryptocurrency or crypto for short whichever is more visually aesthetic on verifone pinpad kiosk
 verifone then displays a QR code link which the customer imports with the verifone application triggering verifones website to prompt user to enter the one time pin sent to the users phone to confirm user login since verifone website user login is telephone number based and login is based on user receiving one time pin
+customer starts.by paying for sales.tax in cash or debit first as calculated by sale amount including sales tax which varies from area to area
+
+confirming the purchase amount (minus sales tax) and exchange amount into crypto as real world funds converted to cryptocurrency exchange rate
+
+
+then the customer hits a checkmark or an X on the phone app to accept payment with cryptocurrency funds deducted from customers balance (which is either held on verifones website or held on the users phone as a DAO wallet)
+and then the receipt is emailed to the customers email already on file saving receipt paper
 </p>
 
 # 01-19-2022
