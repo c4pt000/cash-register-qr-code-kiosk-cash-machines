@@ -1,6 +1,7 @@
 # qr-code-kiosk-cash-machines
 # 02-24-22 update
-# rethinking how payments could be more universal
+# rethinking how payments could be more universal from store to store with payment pinpad
+# pseudo design model
 # verifone universal app to pay at any verifone device with cryptocurrency app loadable via verifone website verifone kiosk links to phone app...phone app links to verifone website
 <p>
 verifone website is remote and holds customer login and customer funds are held by the customer as a link to phone cryptocurrency wallet think electrum linked to make payment to.verifone verifone then can send payment to the store vendor accept payment in under 60 minutes because customer is good in under 60 seconds of sending payment to verifone as payment since verifone accepts 1 preconfirm.transaction deeming it valid as paid when 1st confirm takes place on verifones side then verifone sends cryptocurrency payment to vendors store wallet receiving address since store has a business login to register a cryptocurrency receiving wallet address with verifone
@@ -13,7 +14,7 @@ customer starts.by paying for sales.tax in cash or debit first as calculated by 
 confirming the purchase amount (minus sales tax) and exchange amount into crypto as real world funds converted to cryptocurrency exchange rate
 
 
-then the customer hits a checkmark or an X on the phone app to accept payment with cryptocurrency funds deducted from customers balance (which is either held on verifones website or held on the users phone as a DAO wallet)
+then the customer hits a checkmark or an X on the phone app to accept payment with cryptocurrency funds deducted from customers balance which sends from the customers phone based.cryptocurrency wallet think electrum Bitcoin at first for Android and whatever iOS uses primarily always as an on demand wallet which doesn't need to be synced since it's always synced as an on demand ready to use wallet
 and then the receipt is emailed to the customers email already on file saving receipt paper
 </p>
 
