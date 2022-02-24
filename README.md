@@ -1,5 +1,7 @@
 # qr-code-kiosk-cash-machines
-
+# 02-24-22 update
+# rethinking how payments could be more universal
+# verifone universal app to pay at any verifone device with cryptocurrency app loadable via verifone website verifone kiosk links to phone app...phone app links to verifone website
 # 01-19-2022
 # and websites
 https://github.com/c4pt000/secureQR-code
