@@ -2,6 +2,7 @@
 # 02-24-22 update
 # rethinking how payments could be more universal from store to store with payment pinpad
 # pseudo design model
+![s1](https://raw.githubusercontent.com/c4pt000/qr-code-kiosk-cash-register/main/Sunoco_pinpad_20211207_090933101_HDR.jpg)
 # verifone universal app to pay at any verifone device with cryptocurrency app loadable via verifone website verifone kiosk links to phone app...phone app links to verifone website
 <p>
 verifone website is remote and holds customer login and customer funds are held by the customer as a link to phone cryptocurrency wallet think electrum linked to make payment to.verifone verifone then can send payment to the store vendor accept payment in under 60 minutes because customer is good in under 60 seconds of sending payment to verifone as payment since verifone accepts 1 preconfirm.transaction deeming it valid as paid when 1st confirm takes place on verifones side then verifone sends cryptocurrency payment to vendors store wallet receiving address since store has a business login to register a cryptocurrency receiving wallet address with verifone
@@ -90,7 +91,7 @@ think Target, Walmart all the majors
 ![s1](https://raw.githubusercontent.com/c4pt000/qr-code-kiosk-cash-register/main/pinpad-7-11-concept.jpg)
 
 # sunoco concept
-![s1](https://raw.githubusercontent.com/c4pt000/qr-code-kiosk-cash-register/main/Sunoco_pinpad_20211207_090933101_HDR.jpg)
+
 ![s1](https://raw.githubusercontent.com/c4pt000/qr-code-kiosk-cash-register/main/wawa-kiosk-IMG_20211207_103129691.jpg)
 ![s1](https://github.com/c4pt000/qr-code-kiosk-cash-register/blob/main/dunkin_doughnuts_concept_design.png?raw=true)
 # register can also act as a bitcoin atm if the store is loaded with funds to disperse to take cash under $10,000
