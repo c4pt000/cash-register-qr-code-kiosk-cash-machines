@@ -8,7 +8,7 @@ verifone website is remote and holds customer login and customer funds are held 
 customer in store loads verifone application right before purchasing something 
 verifone kiosk prompts for payment type customer selects cryptocurrency or crypto for short whichever is more visually aesthetic on verifone pinpad kiosk
 verifone then displays a QR code link which the customer imports with the verifone application triggering verifones website to prompt user to enter the one time pin sent to the users phone to confirm user login since verifone website user login is telephone number based and login is based on user receiving one time pin
-customer starts.by paying for sales.tax in cash or debit first as calculated by sale amount including sales tax which varies from area to area
+customer starts.by paying for sales.tax in cash or debit first as calculated by sale amount including sales tax which varies from area to area WHICH IS COMPLETELY SEPERATE and is not acceptable as a crypto payment to cover sales tax
 
 confirming the purchase amount (minus sales tax) and exchange amount into crypto as real world funds converted to cryptocurrency exchange rate
 
