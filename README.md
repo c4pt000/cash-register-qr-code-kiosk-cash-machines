@@ -2,6 +2,14 @@
 # 02-24-22 update
 # rethinking how payments could be more universal
 # verifone universal app to pay at any verifone device with cryptocurrency app loadable via verifone website verifone kiosk links to phone app...phone app links to verifone website
+<p>
+verifone website is remote and holds customer login and customer funds are held by the customer as a decentralized wallet similar to Bisq on mobile (unless verifone website holds the customer's funds risking being targeted by someone looking to knock over verifones website similar to other failed financial or exchange models
+
+customer in store loads verifone application right before purchasing something 
+verifone kiosk prompts for payment type customer selects cryptocurrency or crypto for short whichever is more visually aesthetic on verifone pinpad kiosk
+verifone then displays a QR code link which the customer imports with the verifone application triggering verifones website to prompt user to enter the one time pin sent to the users phone to confirm user login since verifone website user login is telephone number based and login is based on user receiving one time pin
+</p>
+
 # 01-19-2022
 # and websites
 https://github.com/c4pt000/secureQR-code
