@@ -3,7 +3,7 @@
 # rethinking how payments could be more universal from store to store with payment pinpad
 # pseudo design model
 ![s1](https://raw.githubusercontent.com/c4pt000/qr-code-kiosk-cash-register/main/Sunoco_pinpad_20211207_090933101_HDR.jpg)
-![s1](https://github.com/c4pt000/cash-register-qr-code-kiosk-cash-machines/raw/main/IMG_20220224_120820837_HDR~2.jpg)
+![s1](https://github.com/c4pt000/cash-register-qr-code-kiosk-cash-machines/raw/main/Screenshot_20220224-200734-628.png)
 # verifone universal app to pay at any verifone device with cryptocurrency app loadable via verifone website verifone kiosk links to phone app...phone app links to verifone website
 <p>
 verifone website is remote and holds the customer login and the customer's funds are held by the customer
