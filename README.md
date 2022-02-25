@@ -5,9 +5,17 @@
 ![s1](https://raw.githubusercontent.com/c4pt000/qr-code-kiosk-cash-register/main/Sunoco_pinpad_20211207_090933101_HDR.jpg)
 # verifone universal app to pay at any verifone device with cryptocurrency app loadable via verifone website verifone kiosk links to phone app...phone app links to verifone website
 <p>
-verifone website is remote and holds customer login and customer funds are held by the customer as a link to the users cryptocurrency wallet (think electrum) installed on their phone which is linked to make a payment to a verifone website which acts as a middleman waiting for 1 confirm to send it back to the vendor's receiving address on file where the customer is paying for something and confirms that the customer sent the transaction as a pre confirmation transaction that is pending 1 confirm where the website for verifone acts as an escrow but confirms customer sale is paid with pre confirmation when 1 confirm finally arrives on the Bitcoin Blockchain for the transaction the verifone website bounces the held payment directly to the vendor
-  
-where the vendor can accept and receive the payment in under 60 minutes usually once a block passes on the Bitcoin network because the customer is good in under 60 seconds of bagging up to leave the store and receiving the receipt as an email to save paper   of sending the payment to the verifone register as a form of payment since the verifone register accepts 1 preconfirmation transaction deeming it as a valid paid sale when the 1st confirmation takes place on the verifone website side then the verifone website sends the cryptocurrency payment to the vendor's store wallet receiving address since the store has a business login to register a cryptocurrency receiving wallet address with verifone
+verifone website is remote and holds the customer login and the customer's funds are held by the customer
+<br>
+ a link to the users cryptocurrency wallet (think electrum) installed on their phone which is linked to make a payment to a verifone website which acts as a middleman waiting for 1 confirm to send it back to the vendor's receiving address on file where the customer is paying for something and confirms that the customer sent the transaction as a pre confirmation transaction that is pending 1 confirm where the website for verifone acts as an escrow but confirms customer sale is paid with pre confirmation when 1 confirm finally arrives on the Bitcoin Blockchain for the transaction the verifone website bounces the held payment directly to the vendor
+ <br> 
+where the vendor can accept and receive the payment in under 60 minutes even if the customer leaves after 60 seconds of paying for something with cryptocurrency as long as the sales tax is completely seperate using cash or debit and usually once a block passes on the Bitcoin network because the customer is good in under 60 seconds of bagging up to leave the store and receiving the receipt as an email to save paper
+
+
+<br>
+
+
+ instead of sending the payment to the verifone register as a form of payment since the verifone register accepts 1 preconfirmation transaction deeming it as a valid paid sale when the 1st confirmation takes place on the verifone website side then the verifone website sends the cryptocurrency payment to the vendor's store wallet receiving address since the store has a business login to register a cryptocurrency receiving wallet address with verifone
 website
 
 the customer in the store loads the verifone register application right before purchasing something in the store directly
