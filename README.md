@@ -20,14 +20,14 @@ website
 
 the customer in the store loads the verifone register application right before purchasing something in the store directly
 and the verifone register prompts for a payment type and the customer can select cryptocurrency as a form of payment 
-the verifone register then displays a QR code link which the customer imports with the verifone application installed on their phone triggering verifone's website to prompt the user to enter the one time pin sent to the users phone to confirm user login since verifone's website uses a user login with a registered telephone number based
+the verifone register then displays a QR code link which the customer imports with the verifone application installed on their phone triggering verifone's website to prompt the user to enter the one time pin sent to the users phone to confirm user login since verifone's website uses a user login with a registered telephone number
 
 customer starts.by paying for sales.tax in cash or debit first as calculated by sale amount including sales tax which varies from area to area WHICH IS COMPLETELY SEPERATE and is not acceptable as a crypto payment to cover sales tax
 
 confirming the purchase amount (minus sales tax) and exchange amount into crypto as real world funds converted to cryptocurrency exchange rate
 
 
-then the customer hits a checkmark or an X on the phone app to accept payment with cryptocurrency funds deducted from customers balance which sends from the customers phone based.cryptocurrency wallet think electrum Bitcoin at first for Android and whatever iOS uses primarily always as an on demand wallet which doesn't need to be synced since it's always synced as an on demand ready to use wallet
+then the customer hits a checkmark or an X on the phone app to accept or cancel the payment with cryptocurrency funds deducted from customers balance which sends from the customers phone based.cryptocurrency wallet think electrum Bitcoin at first for Android and whatever iOS uses primarily always as an on demand wallet which doesn't need to be synced since it's always synced as an on demand ready to use wallet
 and then the receipt is emailed to the customers email already on file saving receipt paper
 </p>
 
