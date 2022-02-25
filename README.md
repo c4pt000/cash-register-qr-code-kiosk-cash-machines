@@ -5,11 +5,14 @@
 ![s1](https://raw.githubusercontent.com/c4pt000/qr-code-kiosk-cash-register/main/Sunoco_pinpad_20211207_090933101_HDR.jpg)
 # verifone universal app to pay at any verifone device with cryptocurrency app loadable via verifone website verifone kiosk links to phone app...phone app links to verifone website
 <p>
-verifone website is remote and holds customer login and customer funds are held by the customer as a link to phone cryptocurrency wallet think electrum linked to make payment to.verifone verifone then can send payment to the store vendor accept payment in under 60 minutes because customer is good in under 60 seconds of sending payment to verifone as payment since verifone accepts 1 preconfirm.transaction deeming it valid as paid when 1st confirm takes place on verifones side then verifone sends cryptocurrency payment to vendors store wallet receiving address since store has a business login to register a cryptocurrency receiving wallet address with verifone
+verifone website is remote and holds customer login and customer funds are held by the customer as a link to the users cryptocurrency wallet (think electrum) on their phone which is linked to make a payment to a verifone register and the verifone register then can send a payment to the store 
+where the vendor can accept and receive the payment in under 60 minutes usually once a block passes on the Bitcoin network because the customer is good in under 60 seconds of sending the payment to the verifone register as a form of payment since the verifone register accepts 1 preconfirmation transaction deeming it as a valid paid sale when the 1st confirmation takes place on the verifone registers side then the verifone register sends the cryptocurrency payment to the vendor's store wallet receiving address since the store has a business login to register a cryptocurrency receiving wallet address with verifone
+website
 
-customer in store loads verifone application right before purchasing something 
-verifone kiosk prompts for payment type customer selects cryptocurrency or crypto for short whichever is more visually aesthetic on verifone pinpad kiosk
-verifone then displays a QR code link which the customer imports with the verifone application triggering verifones website to prompt user to enter the one time pin sent to the users phone to confirm user login since verifone website user login is telephone number based and login is based on user receiving one time pin
+the customer in the store loads the verifone register application right before purchasing something in the store directly
+and the verifone register prompts for a payment type and the customer can select cryptocurrency as a form of payment 
+the verifone register then displays a QR code link which the customer imports with the verifone application installed on their phone triggering verifone's website to prompt the user to enter the one time pin sent to the users phone to confirm user login since verifone's website uses a user login with a registered telephone number based
+
 customer starts.by paying for sales.tax in cash or debit first as calculated by sale amount including sales tax which varies from area to area WHICH IS COMPLETELY SEPERATE and is not acceptable as a crypto payment to cover sales tax
 
 confirming the purchase amount (minus sales tax) and exchange amount into crypto as real world funds converted to cryptocurrency exchange rate
