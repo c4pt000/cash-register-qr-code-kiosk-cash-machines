@@ -15,7 +15,7 @@ where the vendor can accept and receive the payment in under 60 minutes even if 
 <br>
 
 
- instead of sending the payment to the verifone register as a form of payment since the verifone register accepts 1 preconfirmation transaction deeming it as a valid paid sale when the 1st confirmation takes place on the verifone's website side then the verifone website sends the cryptocurrency payment to the vendor's store wallet receiving address since the store has a business login to register a cryptocurrency receiving wallet address with verifone
+ instead of sending the payment to the verifone register as a form of payment since the verifone register accepts 1 preconfirmation transaction deeming it as a valid paid sale when the 1st confirmation takes place on the verifone website side then the verifone website sends the cryptocurrency payment to the vendor's store wallet receiving address since the store has a business login to register a cryptocurrency receiving wallet address with verifone's
 website
 
 the customer in the store loads the verifone register application right before purchasing something in the store directly
