@@ -1,5 +1,5 @@
 # qr-code-kiosk-cash-machines
-to stop social crimes
+# to stop social crimes
 ![s1](https://raw.githubusercontent.com/c4pt000/plan-to-100-000-cash-register-qr-code-kiosk-cash-machines/main/Screenshot_20220324-233428-431~4.png)
 # 02-24-22 update
 # rethinking how payments could be more universal from store to store with payment pinpad
