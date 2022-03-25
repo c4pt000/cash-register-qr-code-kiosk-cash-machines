@@ -44,7 +44,7 @@ https://drive.google.com/file/d/1R5U1Tbi6ILvlq2rLPoPv8vrUxBA_VDl2/view?usp=drive
 # 01-07-2022 still not working right! stars should be displayed when entering number phone number digits are not displayed at all to protect the customer's privacy
 # likewise Android phones dont announce any phone numbers of car audio Bluetooth speaker at all
 ![s1](https://raw.githubusercontent.com/c4pt000/cash-register-qr-code-kiosk-cash-machines/main/IMG_20220107_163014046_HDR.jpg)
-
+![s1](https://raw.githubusercontent.com/c4pt000/plan-to-100-000-cash-register-qr-code-kiosk-cash-machines/main/Screenshot_20220324-233428-431~4.png)
 # 01-05-2022
 # forgot to mention as a possible suggestion it's probably a better idea and easier for vendors with sales tax to charge sales tax seperate from receiving crypto using the regular methods of debit or cash methods charging sales tax completely seperate each sale per customer
 
