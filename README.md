@@ -8,6 +8,8 @@ to stop social crimes
 ![s1](https://github.com/c4pt000/cash-register-qr-code-kiosk-cash-machines/raw/main/Screenshot_20220224-200734-628.png)
 ![s1](https://raw.githubusercontent.com/c4pt000/qr-code-kiosk-cash-register/main/Sunoco_pinpad_20211207_090933101_HDR.jpg)
 
+# not just a few select stores (but everywhere)
+# verifone is cheaper and used *nationwide* cheaper to replace from the average consumer more durable display than an extended elongated display hooked up to USB
 # verifone universal app to pay at any verifone device with cryptocurrency app loadable via verifone website verifone kiosk links to phone app...phone app links to verifone website
 <p>
 verifone website is remote and holds the customer login and the customer's funds are held by the customer
