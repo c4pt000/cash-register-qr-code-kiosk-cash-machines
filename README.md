@@ -8,6 +8,11 @@
 ![s1](https://github.com/c4pt000/cash-register-qr-code-kiosk-cash-machines/raw/main/Screenshot_20220224-200734-628.png)
 ![s1](https://raw.githubusercontent.com/c4pt000/qr-code-kiosk-cash-register/main/Sunoco_pinpad_20211207_090933101_HDR.jpg)
 
+
+![s1](https://raw.githubusercontent.com/c4pt000/QR-single-serve-fountain-any-food/main/IMG_20220410_152425469.jpg)
+
+
+
 # not just a few select stores (but everywhere)
 # verifone is cheaper and used *nationwide* cheaper to replace from the average consumer more durable display than an extended elongated display hooked up to USB
 # verifone universal app to pay at any verifone device with cryptocurrency app loadable via verifone website verifone kiosk links to phone app...phone app links to verifone website
