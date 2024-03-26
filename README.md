@@ -1,3 +1,5 @@
+plan-to-$100-000-with-more-cash-register-qr-code-kiosk-cash-machines
+
 # qr-code-kiosk-cash-machines
 # to stop social crimes
 ![s1](https://raw.githubusercontent.com/c4pt000/plan-to-100-000-cash-register-qr-code-kiosk-cash-machines/main/Screenshot_20220324-233428-431~4.png)
