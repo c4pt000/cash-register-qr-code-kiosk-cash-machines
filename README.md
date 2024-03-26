@@ -1,4 +1,4 @@
-plan-to-$100-000-with-more-cash-register-qr-code-kiosk-cash-machines
+# plan-to-$100-000-with-more-cash-register-qr-code-kiosk-cash-machines
 
 # qr-code-kiosk-cash-machines
 # to stop social crimes
