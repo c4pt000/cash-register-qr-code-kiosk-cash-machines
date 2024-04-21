@@ -8,11 +8,14 @@
 # fees are too high for world-wide goods and services to choose bitcoin more often to pay for purchases
 
 
-```
-Bitcoin would go up in value and be worth twice as much if the fees were little to nothing like less than 10 sats to send a transaction by the next block in less than 20 minutes
 
-because more people world-wide would use it for goods and services 24/7/365
-```
+# Bitcoin would go up in value and be worth twice as much if the fees were little to nothing like less than 10 sats to send a transaction by the next block in less than 20 minutes
+
+# because more people world-wide would use it for goods and services 24/7/365
+
+# fees have to resemble more like Litecoin network to charge less than 0.001 USD for a tx less than 10 sats to send a transaction in the next block
+
+![s1](https://raw.githubusercontent.com/c4pt000/plan-to--100-000-with-more-cash-register-qr-code-kiosk-cash-machines/main/litecoin-fees.png)
 
 <br>
 <br>
