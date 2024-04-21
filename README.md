@@ -17,6 +17,15 @@
 
 ![s1](https://raw.githubusercontent.com/c4pt000/plan-to--100-000-with-more-cash-register-qr-code-kiosk-cash-machines/main/litecoin-fees.png)
 
+
+# common people with less than $1000 USD in BTC cant conduct transactions world wide when the fees are unstable and jump up like this
+
+![s1](https://raw.githubusercontent.com/c4pt000/plan-to--100-000-with-more-cash-register-qr-code-kiosk-cash-machines/main/SmartSelect_20240420-121239_Firefox.jpg)
+
+# even a network fee of $10 is too much to send a transaction
+
+# has to be less like less than 0.10 USD or 0.001 USD or 0.0001 USD
+
 <br>
 <br>
 <br>
